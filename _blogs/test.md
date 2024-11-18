@@ -1,7 +1,7 @@
 ---
 title: 'test'
 date: 2024-11-18
-permalink: /poststest
+permalink: /posts/test
 ---
 
 # h1
