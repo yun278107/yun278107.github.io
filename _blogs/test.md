@@ -1,5 +1,6 @@
 ---
 title: 'test'
+collection: blogs
 date: 2024-11-18
 permalink: /blogs/test
 ---
