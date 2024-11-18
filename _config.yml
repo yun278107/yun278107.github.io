@@ -39,8 +39,8 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  atcoder          : "https://atcoder.jp/users/yun278107" # URL
-  codeforces       : "https://codeforces.com/profile/pyk278107" # URL
+  # atcoder          : "https://atcoder.jp/users/yun278107" # URL
+  # codeforces       : "https://codeforces.com/profile/pyk278107" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -77,13 +77,13 @@ author:
   zhihu            : "https://www.zhihu.com/people/yun278107" # Username
 
 # Publication Category - The following the list of publication categories and their headings
-# publication_category:
-#   books:
-#     title: 'Books'
-#   manuscripts:
-#     title: 'Journal Articles'    
-#   conferences:
-#     title: 'Conference Papers'
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
