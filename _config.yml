@@ -21,7 +21,7 @@ repository               : "yun278107/yun278107.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar.jpg"
+  avatar           : "avatar.png"
   name             : "PeyNiKge"
   pronouns         : # example: "she/her"  
   bio              : "qwq"
@@ -32,15 +32,15 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  # atcoder          : "https://atcoder.jp/users/yun278107" # URL
-  # codeforces       : "https://codeforces.com/profile/pyk278107" # URL
+  atcoder          : "https://atcoder.jp/users/yun278107" # URL
+  codeforces       : "https://codeforces.com/profile/pyk278107" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
