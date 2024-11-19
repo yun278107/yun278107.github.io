@@ -1,8 +1,7 @@
 ---
 title: 'test'
-collection: blogs
-date: 2024-11-18
 permalink: /blogs/test
+date: 2024-11-18
 ---
 
 # h1
